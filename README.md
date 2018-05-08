@@ -12,4 +12,5 @@ This application uses the following JAVA EE specification and associated techolo
 - https://github.com/PacktPublishing/Architecting-Modern-Java-EE-Applications
 - https://github.com/dheffelfinger/Java-EE-8-Application-Development-Code-Samples
 - https://hantsy.gitbooks.io/java-ee-8-by-example/content/mvc-getting-start.md
+- https://www.voxxed.com/2017/02/creating-uber-jar-payara-micro/
 
