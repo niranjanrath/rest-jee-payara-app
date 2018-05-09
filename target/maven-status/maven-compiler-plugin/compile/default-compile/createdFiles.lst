@@ -1,6 +1,9 @@
 nl\niranjan\ee\HelloWorldEndpoint.class
-nl\niranjan\ee\ApplicationConfig.class
+nl\niranjan\ee\trash\NewServlet.class
 nl\niranjan\ee\BookResource.class
 nl\niranjan\ee\filter\TracedEndpointFilter.class
-nl\niranjan\ee\Book.class
 nl\niranjan\ee\filter\annotations\TracedEndpoint.class
+nl\niranjan\ee\ApplicationConfig.class
+nl\niranjan\ee\trash\MessageB.class
+nl\niranjan\ee\Book.class
+nl\niranjan\ee\trash\Message.class

@@ -15,3 +15,5 @@ This application uses the following JAVA EE specification and associated techolo
 - https://www.voxxed.com/2017/02/creating-uber-jar-payara-micro/
 - https://github.com/fturizo?tab=repositories
 
+# Java EE References
+- https://docs.oracle.com/javaee/7/tutorial/cdi-basic.htm

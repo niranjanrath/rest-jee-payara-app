@@ -1,6 +1,9 @@
 C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\Book.java
 C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\BookResource.java
 C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\filter\TracedEndpointFilter.java
+C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\trash\Message.java
 C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\HelloWorldEndpoint.java
+C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\trash\NewServlet.java
 C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\ApplicationConfig.java
 C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\filter\annotations\TracedEndpoint.java
+C:\_development\temp\dxa\rest-jee-payara-app\src\main\java\nl\niranjan\ee\trash\MessageB.java
