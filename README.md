@@ -17,3 +17,4 @@ This application uses the following JAVA EE specification and associated techolo
 
 # Java EE References
 - https://docs.oracle.com/javaee/7/tutorial/cdi-basic.htm
+- https://javalin.io/tutorials/websocket-example
